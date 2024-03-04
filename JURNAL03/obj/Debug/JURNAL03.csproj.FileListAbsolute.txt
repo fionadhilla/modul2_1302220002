@@ -1,0 +1,10 @@
+D:\JURNAL03\JURNAL03\bin\Debug\JURNAL03.exe.config
+D:\JURNAL03\JURNAL03\bin\Debug\JURNAL03.exe
+D:\JURNAL03\JURNAL03\bin\Debug\JURNAL03.pdb
+D:\JURNAL03\JURNAL03\obj\Debug\JURNAL03.csproj.AssemblyReference.cache
+D:\JURNAL03\JURNAL03\obj\Debug\JURNAL03.Form1.resources
+D:\JURNAL03\JURNAL03\obj\Debug\JURNAL03.Properties.Resources.resources
+D:\JURNAL03\JURNAL03\obj\Debug\JURNAL03.csproj.GenerateResource.cache
+D:\JURNAL03\JURNAL03\obj\Debug\JURNAL03.csproj.CoreCompileInputs.cache
+D:\JURNAL03\JURNAL03\obj\Debug\JURNAL03.exe
+D:\JURNAL03\JURNAL03\obj\Debug\JURNAL03.pdb
